@@ -11,7 +11,8 @@
 - 🧠 developing a website as a collaborative project with a grad student enrolled in Georgia Tech <em>https://github.com/TravisGM92/MckinstryBrosWebDev</em>
 
 - 📫 How to reach me: 
-[<img align="left" alt="Travis' Linkedin profile" widht="22px" src="https://www.linkedin.com/in/travis-mckinstry-aa1a0b1a8/"][linkedin]
+<br />
+[<img align="left" alt="Travis' Linkedin profile" widht="22px" src="https://www.linkedin.com/in/travis-mckinstry-aa1a0b1a8" />][linkedin]
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=travisgm92)](https://github.com/travisgm92/github-readme-stats)
 
