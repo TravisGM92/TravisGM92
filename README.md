@@ -27,7 +27,7 @@
 ### Connect with me:
 
 [<img align="left" alt="mckinstrybros website" width="22px" src="https://github.com/TravisGM92/MckinstryBrosWebDev" />][website]
-[<img align="left" alt="Travis' | LinkedIn" width="22px" src="https://www.linkedin.com/in/travis-mckinstry-aa1a0b1a8/" />][linkedin]
+[<img align="left" alt="Travis' | LinkedIn" width="22px" src="https://www.linkedin.com/in/travis-mckinstry-aa1a0b1a8" />][linkedin]
 
 <br />
 
