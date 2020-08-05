@@ -35,4 +35,4 @@
 <br />
 
 [website]: https://github.com/TravisGM92/MckinstryBrosWebDev
-[linkedin]: https://www.linkedin.com/in/travis-mckinstry-aa1a0b1a8/
+[linkedin]: https://www.linkedin.com/in/travis-mckinstry-aa1a0b1a8
