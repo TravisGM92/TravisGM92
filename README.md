@@ -10,9 +10,9 @@
 
 - 🧠 developing a website as a collaborative project with a grad student enrolled in Georgia Tech <em>https://github.com/TravisGM92/MckinstryBrosWebDev</em>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=travisgm92)(https://github.com/travisgm92/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=travisgm92)](https://github.com/travisgm92/github-readme-stats)
 
-![Travis' github stats](https://github-readme-stats.vercel.app/api?username=travisgm92&show_icons=true&theme=dark)
+[![Travis' github stats](https://github-readme-stats.vercel.app/api?username=travisgm92&show_icons=true&theme=dark)]
 
 <!--
 **TravisGM92/TravisGM92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
