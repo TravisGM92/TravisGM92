@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 ## You've stumbled upon Travis McKinstry's GitHub profile!
 
