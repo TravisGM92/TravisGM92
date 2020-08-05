@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=travisgm02)](https://github.com/travisgm92/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=travisgm92)](https://github.com/travisgm92/github-readme-stats)
 
 [![Travis' github stats](https://github-readme-stats.vercel.app/api?username=travisgm92&show_icons=true&theme=dark)
 
