@@ -10,7 +10,6 @@
 
 - 🧠 developing a website as a collaborative project with a grad student enrolled in Georgia Tech <em>https://github.com/TravisGM92/MckinstryBrosWebDev</em>
 
-- 📫 How to reach me: 
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://www.linkedin.com/in/travis-mckinstry-aa1a0b1a8" />][linkedin]
 <br />
