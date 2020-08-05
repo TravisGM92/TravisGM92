@@ -15,6 +15,8 @@
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://www.linkedin.com/in/travis-mckinstry-aa1a0b1a8" />][linkedin]
 <br />
 <br />
+<br />
+<br />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=travisgm92)](https://github.com/travisgm92/github-readme-stats)
 
