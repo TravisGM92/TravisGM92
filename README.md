@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=travisgm92)](https://github.com/travisgm92/github-readme-stats?username=anuraghazra&show_icons=true&theme=dark)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=travisgm92&show_icons=true&theme=dark)
 
 
 <!--
