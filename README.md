@@ -12,8 +12,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=travisgm92)](https://github.com/travisgm92/github-readme-stats)
 
-[![Travis' github stats](https://github-readme-stats.vercel.app/api?username=travisgm92&show_icons=true&theme=dark)
-
+[![Travis' github stats](https://github-readme-stats.vercel.app/api?username=travisgm92&show_icons=true&theme=dark)]
+<br />
 
 [<img align="left" alt="Travis'| LinkedIn" width="22px" src="https://www.linkedin.com/in/travis-mckinstry-aa1a0b1a8" />][linkedin]
 
