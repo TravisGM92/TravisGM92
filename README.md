@@ -6,7 +6,7 @@
 
 - 📖 studying at Turing School of Software & Design out of Denver, Colorado (backend program)
 
--🏔 living in Denver, CO with my wife 👧 and dog 🐕 
+- 🏔 living in Denver, CO with my wife 👧 and dog 🐕 
 
 - 🧠 developing a website as a collaborative project with a grad student enrolled in Georgia Tech <em>https://github.com/TravisGM92/MckinstryBrosWebDev</em>
 
