@@ -29,6 +29,7 @@
 [<img align="left" alt="mckinstrybros website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Travis' | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Travis' | HackerRank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />][hackerrank]
+[<img align="left" alt="Travis' | CodeWar" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codewars.svg" />][codewars]
 
 <br />
 
@@ -37,3 +38,5 @@
 [website]: https://github.com/TravisGM92/MckinstryBrosWebDev
 [linkedin]: https://www.linkedin.com/in/travis-mckinstry-aa1a0b1a8
 [hackerrank]: https://www.hackerrank.com/Mckinstrytg
+[codewars]: https://www.codewars.com/users/TravisGM
+
