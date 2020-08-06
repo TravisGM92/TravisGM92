@@ -12,7 +12,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=travisgm92)](https://github.com/travisgm92/github-readme-stats)
 
-[![Travis' github stats](https://github-readme-stats.vercel.app/api?username=travisgm92&show_icons=true&theme=dark)]
+[![Travis' github stats align="left"](https://github-readme-stats.vercel.app/api?username=travisgm92&show_icons=true&theme=dark)]
 
 <!--
 **TravisGM92/TravisGM92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
