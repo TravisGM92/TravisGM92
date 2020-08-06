@@ -28,7 +28,7 @@
 
 [<img align="left" alt="mckinstrybros website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Travis' | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt"Travis' Hacker Rank profile" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/hackerrank.svg" />[hackerrank]
+[<img align="left" alt"Travis' Hacker Rank profile" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/hackerrank.svg" />][hackerrank]
 
 <br />
 
