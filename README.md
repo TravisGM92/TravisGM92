@@ -4,7 +4,7 @@
 
 ### Currently, I am...
 
-- 📖 studying at Turing School of Software & Design out of Denver, Colorado (backend program)
+- 📖 studying at **Turing School of Software & Design** out of **Denver, Colorado** (backend program)
 
 - 🏔 living in Denver, CO with my wife 👧 and dog 🐕 
 
