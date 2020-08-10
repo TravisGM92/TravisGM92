@@ -8,7 +8,7 @@
 
 - 🏔 living in Denver, CO with my wife 👧 and dog 🐕
 
-- 🧠 developing a website as a collaborative project with a grad student enrolled in Georgia Tech ([McKistry Bro WebDev](https://travisgm92.github.io/MckinstryBrosWebDev/))
+- 🧠 developing a website as a collaborative project with a grad student enrolled in Georgia Tech ([McKinstry Bro WebDev](https://travisgm92.github.io/MckinstryBrosWebDev/))
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=travisgm92)](https://github.com/travisgm92/github-readme-stats)        ![Travis' github stats](https://github-readme-stats.vercel.app/api?username=travisgm92&show_icons=true&theme=dark)
 
