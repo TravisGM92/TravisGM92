@@ -1,8 +1,8 @@
-## Hi there 👋
+## Hello! 👋
 
-## You've stumbled upon Travis McKinstry's GitHub profile!
+## You made it to Travis McKinstry's GitHub profile!
 
-### Currently, I am...
+### Here are some things I'm currently doing...
 
 - 📖 studying at **Turing School of Software & Design** out of **Denver, Colorado** (backend program)
 
