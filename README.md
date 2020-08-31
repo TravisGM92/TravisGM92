@@ -23,6 +23,12 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Tools and languages I use: 
+
+https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png
+
+
 ### Connect with me:
 
 [<img align="left" alt="mckinstrybros website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
