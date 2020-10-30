@@ -2,6 +2,10 @@
 
 ## You made it to Travis McKinstry's GitHub profile!
 
+**Who is Travis?**
+<br>
+I am a passionate software developer who loves bringing humor and good 'ol fashion hard work to each and every day.
+
 ### Here are some things I'm currently doing...
 
 - 📖 studying at **Turing School of Software & Design** out of **Denver, Colorado** (backend program)
