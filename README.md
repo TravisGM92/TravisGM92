@@ -3,7 +3,7 @@
 ## You made it to Travis McKinstry's GitHub profile!
 
 **Who is Travis?**
-<br>
+<br><br>
 I am a passionate software developer who loves bringing humor and good 'ol fashion hard work to each and every day.
 
 ### Here are some things I'm currently doing...
@@ -26,7 +26,6 @@ I am a passionate software developer who loves bringing humor and good 'ol fashi
 
 
 <!--
-**TravisGM92/TravisGM92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
