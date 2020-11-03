@@ -42,6 +42,7 @@ I am a passionate software developer who loves bringing humor and good 'ol fashi
 [<img align="left" alt="Travis' | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Travis' | HackerRank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />][hackerrank]
 [<img align="left" alt="Travis' | CodeWar" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codewars.svg" />][codewars]
+[<img align="left" alt="Travis' | CodeWar" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/codepen.svg" />][codepen]
 
 <br />
 
@@ -51,4 +52,5 @@ I am a passionate software developer who loves bringing humor and good 'ol fashi
 [linkedin]: https://www.linkedin.com/in/travis-mckinstry/
 [hackerrank]: https://www.hackerrank.com/Mckinstrytg
 [codewars]: https://www.codewars.com/users/TravisGM
+[codepen]: https://codepen.io/travis-mckinstry
 
