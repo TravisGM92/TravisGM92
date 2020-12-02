@@ -37,6 +37,9 @@ I am a passionate software developer who loves bringing humor and good 'ol fashi
 -->
 
 
+![Travis' github stats](https://github-readme-stats.vercel.app/api?username=travisgm92&show_icons=true&theme=dark)
+
+
 ### Connect with me:
 
 [<img align="left" alt="mckinstrybros website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
