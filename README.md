@@ -18,7 +18,6 @@ I am a passionate software developer who loves bringing humor and good 'ol fashi
 
 ![](https://github.com/travisgm92/github-stats/blob/master/generated/languages.svg)
 
-[Travis' github stats](https://github-readme-stats.vercel.app/api?username=travisgm92&show_icons=true&theme=dark)
 
 ### Main Tools and languages I use: 
 
