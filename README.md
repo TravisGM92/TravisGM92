@@ -16,7 +16,7 @@ I am a passionate software developer who loves bringing humor and good 'ol fashi
 
 - also working on a personal project; [check it out!](https://github.com/TravisGM92/friend_book)
 
-![](https://github.com/travisgm92/github-stats/blob/master/generated/languages.svg){.callout}
+![image alt >](https://github.com/travisgm92/github-stats/blob/master/generated/languages.svg)
 
 
 ### Main Tools and languages I use: 
@@ -50,9 +50,9 @@ I am a passionate software developer who loves bringing humor and good 'ol fashi
 
 <br />
 
-.callout {
+img[alt$=">"] {
   float: right;
-  }
+}
 
 [website]: https://github.com/TravisGM92/MckinstryBrosWebDev
 [linkedin]: https://www.linkedin.com/in/travis-mckinstry/
