@@ -15,7 +15,7 @@ I am a passionate software developer who loves bringing humor and good 'ol fashi
 - 🧠 developing a website as a collaborative project with a grad student enrolled in Georgia Tech; [McKinstry Bro WebDev](https://travisgm92.github.io/MckinstryBrosWebDev/)
 
 - also working on a personal project; [check it out!](https://github.com/TravisGM92/friend_book)
-<br />
+
 ![](https://github.com/travisgm92/github-stats/blob/master/generated/languages.svg)
 
 [Travis' github stats](https://github-readme-stats.vercel.app/api?username=travisgm92&show_icons=true&theme=dark)
