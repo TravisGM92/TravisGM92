@@ -50,7 +50,7 @@ I am a passionate software developer who loves bringing humor and good 'ol fashi
 
 <br />
 
-img[alt$=">"] {
+[alt$=">"] {
   float: right;
 }
 
