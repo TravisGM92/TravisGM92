@@ -8,7 +8,7 @@ I am a passionate software developer who loves bringing humor and good 'ol fashi
 
 ### Here are some things I'm currently doing...
 
-- 📖 studying at **Turing School of Software & Design** out of **Denver, Colorado** (backend program)
+- I actually just graduated the **Turing School of Software & Design** backend program!
 
 - 🏔 living in Denver, CO with my wife 👧 and dog 🐕
 
