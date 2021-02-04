@@ -26,7 +26,7 @@ I am a passionate software developer who loves bringing humor and good 'ol fashi
 <br /><br>
 
 
-![CodeWards Badges](https://www.codewars.com/users/travisgm/badges/large)
+![CodeWars Badges](https://www.codewars.com/users/TravisGM/badges/large)
 
 
 ### Connect with me:
