@@ -16,8 +16,6 @@ I am a passionate software developer who loves bringing humor and good 'ol fashi
 
 - also working on a personal project; [check it out!](https://github.com/TravisGM92/friend_book)
 
-![](https://github.com/travisgm92/github-stats/blob/master/generated/languages.svg)
-
 
 ### Main Tools and languages I use: 
 
