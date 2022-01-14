@@ -8,13 +8,11 @@ I am a passionate software developer who loves bringing humor and good 'ol fashi
 
 ### Here are some things I'm currently doing...
 
-- I actually just graduated the **Turing School of Software & Design** backend program!
+- I work for a consultancy called ThoughtWorks[tw]
+
+- I graduated the **Turing School of Software & Design** backend program in February of 2021. Yes, I attended a programming bootcamp during the pandemic. It was great.
 
 - 🏔 living in Denver, CO with my wife 👧 and dog 🐕
-
-- 🧠 developing a website as a collaborative project with a grad student enrolled in Georgia Tech; [McKinstry Bro WebDev](https://travisgm92.github.io/MckinstryBrosWebDev/)
-
-- also working on a personal project; [check it out!](https://github.com/TravisGM92/friend_book)
 
 
 ### Main Tools and languages I use: 
@@ -48,3 +46,4 @@ I am a passionate software developer who loves bringing humor and good 'ol fashi
 [codewars]: https://www.codewars.com/users/TravisGM
 [codepen]: https://codepen.io/travis-mckinstry
 [stack]: https://stackexchange.com/users/19187226/travis-mckinstry
+[tw]: https://www.linkedin.com/company/thoughtworks/
