@@ -21,13 +21,13 @@ I am a passionate software developer who loves bringing humor and good 'ol fashi
 
 <br /><br><br>
 
-### My CodeWars progress:
+### I love code challenges so much, I often do them in my freetime:
 
 ![CodeWars Badges](https://www.codewars.com/users/TravisGM/badges/large)
 
 <br><br>
 
-### Connect with me:
+### I doubt anyone gets this far in a profile description (if they even read it), but just in case you did, congrats! Oh, and if you wanna connect:
 
 [<img align="left" alt="mckinstrybros website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Travis' | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
