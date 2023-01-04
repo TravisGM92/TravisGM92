@@ -8,7 +8,7 @@ I am a passionate software developer who loves bringing humor and good 'ol fashi
 
 ### Here are some things I'm currently doing...
 
-- I work as a consultant developer for [ThoughtWorks]. It's great, I love it. ❤️ 
+- I work as a software developer. It's great, I love it. ❤️ 
 
 - I graduated the **Turing School of Software & Design** backend program in February of 2021. Yes, I attended a programming bootcamp during the pandemic. It was great.
 
@@ -46,4 +46,3 @@ I am a passionate software developer who loves bringing humor and good 'ol fashi
 [codewars]: https://www.codewars.com/users/TravisGM
 [codepen]: https://codepen.io/travis-mckinstry
 [stack]: https://stackexchange.com/users/19187226/travis-mckinstry
-[ThoughtWorks]: https://www.linkedin.com/company/thoughtworks/
