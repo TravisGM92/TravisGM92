@@ -6,14 +6,6 @@
 <br><br>
 I am a passionate software developer who loves bringing humor and good 'ol fashion hard work to each and every day.
 
-### Here are some things I'm currently doing...
-
-- I work as a software developer. It's great, I love it. ❤️ 
-
-- I graduated the **Turing School of Software & Design** backend program in February of 2021. Yes, I attended a programming bootcamp during the pandemic. It was great.
-
-- 🏔 living in Denver, CO with my wife 👧 and dog 🐕
-
 
 ### Main Tools and languages I use: 
 
