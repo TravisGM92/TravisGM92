@@ -27,7 +27,7 @@ I am a passionate software developer who loves bringing humor and good 'ol fashi
 
 <br><br>
 
-### I doubt anyone gets this far in a profile description (if they even read it), but just in case you did, congrats! Oh, and if you wanna connect:
+### If you wanna connect:
 
 [<img align="left" alt="mckinstrybros website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Travis' | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
